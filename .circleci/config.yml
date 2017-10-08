@@ -1,0 +1,12 @@
+version: 2
+jobs:
+   build:
+     machine: true
+     steps:
+       - checkout
+       - run:
+           command: |
+             git submodule update --init --recursive
+             rm -rf public/
+             git worktree add -B master public origin/master
+       - run: docker run --rm -v $PWD:/src -v $PWD/delme:/output -e HUGO_WATCH=false jojomi/hugo
