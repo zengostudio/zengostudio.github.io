@@ -5,4 +5,5 @@ draft: false
 ---
 
 First post with modifications. Kerek szepen kavet!
-New second line 
+
+New second line
