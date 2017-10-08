@@ -6,6 +6,8 @@ jobs:
        - checkout
        - run:
            command: |
+             git config --global user.email "circleci@circleci.com"
+             git config --global user.name "CircleCI"
              git submodule update --init --recursive
              rm -rf public/
              git worktree add -B master public origin/master
