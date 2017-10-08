@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zengostudio.github.io/posts/second-post/</loc>
+    <lastmod>2017-10-08T18:01:27+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zengostudio.github.io/posts/my-first-post/</loc>
     <lastmod>2017-10-08T09:52:07+02:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://zengostudio.github.io/posts/</loc>
-    <lastmod>2017-10-08T09:52:07+02:00</lastmod>
+    <lastmod>2017-10-08T18:01:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://zengostudio.github.io/</loc>
-    <lastmod>2017-10-08T09:52:07+02:00</lastmod>
+    <lastmod>2017-10-08T18:01:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
