@@ -1,5 +1,5 @@
 baseURL = "https://zengostudio.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Varrni jo"
 theme = "ananke"
 publishDir = "public"
