@@ -88,7 +88,7 @@ publishDir = "public"
     [[params.services.row.list]]
       icon = "fa-female"
       title = "Mérettáblázat"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "Női S/M méret mellbőség: 84-96 cm, derékbőség: 66-78 cm, csípőbőség: "
       url = "#"
 
 
