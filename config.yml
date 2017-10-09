@@ -128,43 +128,24 @@ params:
     title: Rólunk
     subtitle: A VarrniJÓ alapítói
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
-      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
-      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
-      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
-      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
-      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
-      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
-      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem
-      ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam
-      veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut
-      unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
-      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
-      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
-      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
-      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
-      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
-      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
-      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem
-      ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam
-      veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut
-      unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
-      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
-      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
-      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
-      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
-      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
-      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
-      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+      Másfél évtizedes varrótanfolyamos munkám során nagyon sok varrni szerető emberrel találkoztam,
+      akik teljesen kezdőként, nagy lelkesedéssel és szorgalommal eljutottak arra a szintre, hogy otthon,
+      önállóan is képesek alkotni, maguknak és családjuknak megvarrni a megálmodott ruhadarabokat, kiegészítőket.
+      Azonban sok olyan tanítványom is volt, akik az órákon ügyesen és lelkesen készítettek el mindent,
+      viszont otthon, egyedül nem álltak neki varrni, annak ellenére, hogy minden szükséges eszközük meg
+      volt hozzá. Mikor megkérdeztem, miért van ez így, sokan azt felelték, hogy nem szeretnek szabni,
+      nincs akkora helyük, asztaluk, hogy kiterítsék a szabáshoz az anyagot, félnek, hogy rosszul szabják ki az alkatrészeket,
+      nem tudnak szabásmintát készíteni, vagy éppen nincsen ötletük, hogy mit, milyen anyagból varrjanak…
+      egyszóval macerás az egész, pedig varrni nagyon szeretnének.
+      Másrészről azt látom, akár magamon is, hogy az emberek sokkal nehezebben köteleződnek el egy hosszabb
+      tanfolyam mellett, szeretik, ha egy-egy alkalom alatt látványos sikereket érhetnek el, és egyre többen
+      választják az ALKOTÁST kikapcsolódásra, feltöltődésre a hétköznapokban is.
+      Így született meg a VarrniJÓ ötlete, ahol igyekszünk kiszolgálni azokat is, akik otthon szeretnének egyszerű,
+      de nagyon csinos, mutatós ruhákat, kiegészítőket varrni maguknak és családjuknak.
+      A rendelhető termékek mellett szeretnénk az ún. KÖZÖS VARRÁSOKON lehetőséget adni a jó hangulatban végezhető
+      alkotó kikapcsolódásra, ahol még a varrni nem tudó, bizonytalan vagy esetleg otthoni varrógéppel nem rendelkezők
+      is sikerélményt szerezhetnek a varrás terén.
+
     members:
       - img: dori.jpg
         name: Papp Dorottya
