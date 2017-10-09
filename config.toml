@@ -1,6 +1,6 @@
 baseURL = "http://www.varrnijo.com"
 languageCode = "en-us"
-title = "Varrni jo"
+title = "VarrniJÓ"
 theme = "agency"
 publishDir = "public"
 
@@ -42,14 +42,14 @@ publishDir = "public"
 
   # Navigation
   [params.navigation]
-    brand = "Varrni jo"
+    brand = "VarrniJÓ"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    services = "Tudnivalok"
+    services = "Tudnivalók"
     portfolio = "Portfolio"
-    about = "Esemenyek"
-    team = "Rolunk"
-    contact = "Kontakt"
+    about = "Események"
+    team = "Rólunk"
+    contact = "Kapcsolat"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
@@ -64,7 +64,7 @@ publishDir = "public"
     # postpended links
     [[menu.postpend]]
       url = "https://www.meska.hu"
-      name = "Webshop"
+      name = "Termékek/Webshop"
       weight = 10
 
 
@@ -117,8 +117,8 @@ publishDir = "public"
         url = "#"
     [[params.services.row.list]]
           icon = "fa-cut"
-          title = "Eszkozok"
-          description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+          title = "Szükséges eszközök"
+          description = "Varrógép, olló, gombostű, minden mást tartalmaz a csomag. Ha nem rendelkezel alap eszközökkel, rendeld meg az összeválogatott, jó minőségű eszköz csomagunkat, amiben megtalálsz mindent, amire szükséged lehet."
           url = "#"
 
   # Portfolio section
