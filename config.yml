@@ -1,0 +1,263 @@
+baseURL: 'http://www.varrnijo.com'
+languageCode: en-us
+title: VarrniJÓ
+theme: agency
+publishDir: public
+params:
+  name: Your name
+  description: Your description
+  custom_css: []
+  custom_js: []
+  favicon: favicon.ico
+  disableFonts: false
+  error404:
+    heading: Page couldn't be found
+    text: 'Please visit [this page](/)'
+  navigation:
+    brand: VarrniJÓ
+    services: Tudnivalók
+    portfolio: Portfolio
+    about: Események
+    team: Rólunk
+    contact: Kapcsolat
+  hero:
+    title: Szuper fazonok egyedi SIPTÁR díszítésekkel
+    subtitle: VarrniJÓ
+    buttonText: részletek
+  services:
+    enable: true
+    title: Tudnivalók
+    subtitle: Lorem ipsum dolor sit amet consectetur.
+    row:
+      - list:
+          - icon: fa-female
+            title: Mérettáblázat
+            description: >-
+              Női S/M méret mellbőség: 84-96 cm, derékbőség: 66-78 cm,
+              csípőbőség:
+            url: '#'
+          - icon: fa-question
+            title: Kiknek ajánljuk
+            description: >-
+              Mindenkinek, aki szeret varrni, illetve aki szeretné kipróbálni
+              magát ezen a területen. Azoknak, akik nem szeretnek vagy nincs
+              lehetőségük, idejük szabásmintát készíteni, anyagot vásárolni,
+              szabni, de szeretnek varrni és saját készítésű ruhákban járni.
+              Kreatív szettjeink tökéletesek ajándéknak is varrni tudó
+              szeretteinknek.
+            url: '#'
+          - icon: fa-archive
+            title: Kreatív szettek tartalma
+            description: >-
+              Kiszabott, előkészített alkatrészek. A különleges gépeket igénylő
+              vagy nehezebb műveleteket előre elkészítjük (pl. gomblyukak, alja
+              eldolgozások). Díszítéshez szükséges, előkészített minták.
+              Szükséges kellékek: gumik, kötözők, szalagok, cérnák, stb. Leírás,
+              részletes útmutató az elkészítéshez, hasznos tippekkel,
+              tanácsokkal.
+            url: '#'
+          - icon: fa-battery-2
+            title: Nehézségi fokok
+            description: >-
+              Mindegyik termékünk alap varrásismerettel rendelkezőknek, követve
+              a leírások pontos sorrendjét, egyszerűen megvarrható. A még
+              teljesen kezdőknek pedig közös varrásainkon nyújtunk segítséget,
+              ahol ők is elkészíthetik a kiválasztott termékeket.
+            url: '#'
+          - icon: fa-leaf
+            title: Alapanyagok
+            description: >-
+              A felsőruházati termékeket jó minőségű, természetes szálú
+              alapanyagokból készítjük ügyelve arra, hogy könnyen varrható
+              legyen és csinos, kényelmes viseletet biztosítson. A
+              kiegészítőknél, kellékeknél is igyekszünk jó minőségű, tartós
+              anyagokat használni.
+            url: '#'
+          - icon: fa-cut
+            title: Szükséges eszközök
+            description: >-
+              Varrógép, olló, gombostű, minden mást tartalmaz a csomag. Ha nem
+              rendelkezel alap eszközökkel, rendeld meg az összeválogatott, jó
+              minőségű eszköz csomagunkat, amiben megtalálsz mindent, amire
+              szükséged lehet.
+            url: '#'
+  portfolio:
+    enable: false
+    title: Portfolio
+    subtitle: Lorem ipsum dolor sit amet consectetur.
+    modal:
+      client: Client
+      date: Date
+      category: Category
+      buttonText: Close project
+  about:
+    enable: true
+    title: Események
+    subtitle: Lorem ipsum dolor sit amet consectetur.
+    endpoint: Be part<br>of our<br>story!
+    events:
+      - img: 1.jpg
+        title: Közös varrások
+        description: Kozos teremben tanari felugyelettel varrunk
+      - img: 2.jpg
+        date: March 2011
+        title: Textilfestő workshop
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
+          voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
+          recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
+          consectetur!
+      - img: 3.jpg
+        date: December 2012
+        title: Hagyományos varrótanfolyam
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
+          voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
+          recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
+          consectetur!
+      - img: 4.jpg
+        date: July 2014
+        title: Egyéb
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
+          voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
+          recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
+          consectetur!
+  team:
+    enable: true
+    title: Rólunk
+    subtitle: A VarrniJÓ alapítói
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
+      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
+      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
+      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
+      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
+      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
+      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
+      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
+      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
+      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem
+      ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam
+      veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut
+      unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
+      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
+      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
+      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
+      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
+      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
+      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
+      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
+      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
+      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem
+      ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam
+      veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut
+      unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
+      laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
+      alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam
+      corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur
+      adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad
+      perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet,
+      consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non
+      quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor
+      sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis,
+      quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+    members:
+      - img: dori.jpg
+        name: Papp Dorottya
+        position: >-
+          Ruhaipari mérnök, szerkesztő-modellező, tanár, a ’93-as Nemzetközi
+          Burda Varróverseny európa bajnoki I. helyezettje
+        bio: >-
+          A főiskola elvégzése után számos divattervező mellett dolgoztam
+          modellezőként, majd ezzel párhuzamosan kezdtem el hobbi
+          varrótanfolyamokat tartani felnőtteknek, édesanyámmal közösen
+          működtetett iskolánkban. 2008-tól két gyermekem mellett voltam otthon,
+          ami idő alatt új impulzusok értek és megszületett bennem a VarrniJó
+          Stúdió “kreatív szettek” és “közös varrások” ötlete. Ehhez hívtam
+          segítségül Siptár Rékát, akit a fent említett Burda Varróversenyen
+          ismertem meg, ahol ő is dobogós helyezést ért el, és a méltán híres
+          Siptár márka megalkotója, vezetője. Ő felel a VarrniJó termékek
+          csodálatos díszítéseiért.
+        social:
+          - - fa-twitter
+            - '#'
+          - - fa-facebook
+            - '#'
+          - - fa-linkedin
+            - '#'
+      - img: reka.jpg
+        name: Siptár Réka
+        position: >-
+          Textilművész, ruhatervező, interior designer, a ’93-as Nemzetközi
+          Burda Varróverseny európa bajnoki III. helyezettje, a Siptár és az
+          eSeR márkák megalapítója
+        bio: >-
+          25 éve foglalkozom ruhák tervezésével és megvalósításával, mely ruhák
+          erős karakterük miatt brandé nőtték ki magukat. Egy évvel ezelőtt
+          kezdtem az általam kikisérletezett textil mintázások technikáját
+          tanítani, s miután Dóri megkeresett a VarrniJÓ ötletével, úgy gondolom
+          kitűnő párosítás a ruhák varrása alkalmával egy egyszerűbb technikai
+          megoldással színessé és egyedivé varázsolni a megalkotott darabokat.
+          Ebben szeretnék segítséget nyújtani, hogy minél többen
+          megtapasztalhassák az alkotás színes örömét
+        social:
+          - - fa-twitter
+            - '#'
+          - - fa-facebook
+            - '#'
+          - - fa-linkedin
+            - '#'
+  clients_list:
+    enable: false
+  clients:
+    - logo: envato.jpg
+      link: '#'
+    - logo: designmodo.jpg
+      link: '#'
+    - logo: themeforest.jpg
+      link: '#'
+    - logo: creative-market.jpg
+      link: '#'
+  contact:
+    enable: true
+    title: Irj nekunk
+    subtitle: 'Keres, sohaj, panasz:'
+    buttonText: Mehet
+    email: dori@varrnijo.com
+    form:
+      name:
+        text: Neved *
+        warning: Please enter your name.
+      email:
+        text: Email cimed *
+        warning: Please enter your email address.
+      phone:
+        text: Telefonszam *
+        warning: Please enter your phone number.
+      message:
+        text: Uzenet *
+        warning: Please enter a message.
+  footer:
+    enable: true
+    copyright: Published under the Apache License 2.0.
+    social:
+      - icon: fa-twitter
+        link: '#'
+      - icon: fa-facebook
+        link: '#'
+      - icon: fa-linkedin
+        link: '#'
+    quicklinks:
+      - text: Privacy Policy
+        link: '#'
+      - text: Terms of Use
+        link: '#'
+menu:
+  postpend:
+    - url: 'https://www.meska.hu'
+      name: Termékek/Webshop
+      weight: 10
