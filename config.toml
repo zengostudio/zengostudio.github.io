@@ -94,8 +94,9 @@ publishDir = "public"
 
     [[params.services.row.list]]
       icon = "fa-question"
-      title = "Kiknek Ajanljuk"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Kiknek ajánljuk"
+      description = "Mindenkinek, aki szeret varrni, illetve aki szeretné kipróbálni magát ezen a területen. Azoknak, akik nem szeretnek vagy nincs lehetőségük, idejük szabásmintát készíteni, anyagot vásárolni, szabni, de szeretnek varrni és saját készítésű ruhákban járni.
+Kreatív szettjeink tökéletesek ajándéknak is varrni tudó szeretteinknek."
       url = "#"
 
     [[params.services.row.list]]
