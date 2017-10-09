@@ -8,8 +8,9 @@ draft: false
 # Tanfolyam1
 
 Itt megtanulhatod:
+
 - szoknya
 - nadrag
 - melleny
 
-GYertek!
+Gyertek!
