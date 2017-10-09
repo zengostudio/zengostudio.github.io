@@ -211,7 +211,7 @@ publishDir = "public"
 
   # Client section
     [params.clients_list]
-      enable = true
+      enable = false
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
@@ -239,9 +239,9 @@ publishDir = "public"
   # Contact section
   [params.contact]
     enable = true
-    title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
-    buttonText = "Send message"
+    title = "Irj nekunk"
+    subtitle  = "Keres, sohaj, panasz:"
+    buttonText = "Mehet"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -261,7 +261,7 @@ publishDir = "public"
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "dori@varrnijo.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
@@ -269,19 +269,19 @@ publishDir = "public"
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
-      text = "Your Name *"
+      text = "Neved *"
       warning = "Please enter your name."
 
     [params.contact.form.email]
-      text = "Your Email *"
+      text = "Email cimed *"
       warning = "Please enter your email address."
 
     [params.contact.form.phone]
-      text = "Your Phone *"
+      text = "Telefonszam *"
       warning = "Please enter your phone number."
 
     [params.contact.form.message]
-      text = "Your Message *"
+      text = "Uzenet *"
       warning = "Please enter a message."
 
       # Add optional form fields to identify contact forms
