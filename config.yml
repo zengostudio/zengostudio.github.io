@@ -224,8 +224,10 @@ params:
       link: '#'
   contact:
     enable: true
-    title: Irj nekunk
-    subtitle: 'Keres, sohaj, panasz:'
+    title: Kapcsolat
+    address: 1114, Budapest Eszek utca 14.
+    phone: +36 70 940 7195
+    subtitle: 'Uzenet:'
     buttonText: Mehet
     email: dori@varrnijo.com
     form:
