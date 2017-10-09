@@ -113,9 +113,10 @@ publishDir = "public"
     [[params.services.row.list]]
         icon = "fa-leaf"
         title = "Alapanyagok"
-        description = "A felsőruházati termékeket jó minőségű, természetes szálú alapanyagokból készítjük ügyelve arra, hogy könnyen varrható legyen és csinos, kényelmes viseletet biztosítson. 
+        description = """
+        A felsőruházati termékeket jó minőségű, természetes szálú alapanyagokból készítjük ügyelve arra, hogy könnyen varrható legyen és csinos, kényelmes viseletet biztosítson. 
 A kiegészítőknél, kellékeknél is igyekszünk jó minőségű, tartós anyagokat használni.
-"
+"""
         url = "#"
     [[params.services.row.list]]
           icon = "fa-cut"
