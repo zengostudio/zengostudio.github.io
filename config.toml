@@ -63,8 +63,8 @@ publishDir = "public"
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
+      url = "https://www.meska.hu"
+      name = "Bolt"
       weight = 10
 
 
@@ -105,7 +105,7 @@ publishDir = "public"
 
   # Portfolio section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -123,7 +123,7 @@ publishDir = "public"
     # About section
   [params.about]
     enable = true
-    title = "About"
+    title = "Rolunk"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     endpoint = "Be part<br>of our<br>story!"
 
@@ -160,27 +160,19 @@ publishDir = "public"
     enable = true
     # Possibility to center items
     #center = true
-    title = "Our amazing team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Csapatunk"
+    subtitle = "Mi vagyunk a varrni jo."
     description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
-      ]
+      img = "dori.jpg"
+      name = "Papp Dorottya"
+      position = "Varrono"
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      bio = """Dori gyerekkora ota varr. Szuleitol tanulta. Europabajnok. Stb"""
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -188,19 +180,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
-    [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      img = "reka.jpg"
+      name = "Siptar Reka"
+      position = "Varrono"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
