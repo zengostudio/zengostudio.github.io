@@ -107,8 +107,9 @@ Kreatív szettjeink tökéletesek ajándéknak is varrni tudó szeretteinknek."
 
     [[params.services.row.list]]
       icon = "fa-battery-2"
-      title = "Nehezsegi fokok"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Nehézségi fokok"
+      description = "Mindegyik termékünk alap varrásismerettel rendelkezőknek, követve a leírások pontos sorrendjét, egyszerűen megvarrható.
+A még teljesen kezdőknek pedig közös varrásainkon nyújtunk segítséget, ahol ők is elkészíthetik a kiválasztott termékeket."
       url = "#"
 
     [[params.services.row.list]]
