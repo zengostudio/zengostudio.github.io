@@ -72,9 +72,9 @@ publishDir = "public"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Udvozol a varrnijo!"
-    subtitle = "Szevasz"
-    buttonText = "reszletek"
+    title = "Szuper fazonok egyedi SIPTÁR díszítésekkel"
+    subtitle = "VarrniJÓ"
+    buttonText = "részletek"
 
 
   # Services section
