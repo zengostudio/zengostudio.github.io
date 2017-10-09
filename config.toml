@@ -80,14 +80,14 @@ publishDir = "public"
   # Services section
   [params.services]
     enable = true
-    title = "Tudnivalok"
+    title = "Tudnivalók"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
       icon = "fa-female"
-      title = "Merettablazat"
+      title = "Mérettáblázat"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
@@ -100,8 +100,8 @@ publishDir = "public"
 
     [[params.services.row.list]]
       icon = "fa-archive"
-      title = "Settek tartalma"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Kreatív szettek tartalma"
+      description = "Kiszabott, előkészített alkatrészek. A különleges gépeket igénylő vagy nehezebb műveleteket előre elkészítjük (pl. gomblyukak, alja eldolgozások). Díszítéshez szükséges, előkészített minták. Szükséges kellékek: gumik, kötözők, szalagok, cérnák, stb. Leírás, részletes útmutató az elkészítéshez, hasznos tippekkel, tanácsokkal."
       url = "#"
 
     [[params.services.row.list]]
