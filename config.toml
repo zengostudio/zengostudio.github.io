@@ -141,7 +141,7 @@ publishDir = "public"
     # About section
   [params.about]
     enable = true
-    title = "Esemenyek"
+    title = "Események"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     endpoint = "Be part<br>of our<br>story!"
 
@@ -151,25 +151,25 @@ publishDir = "public"
     [[params.about.events]]
       img = "1.jpg"
       #date = "Dec 2012"
-      title = "Kozos varrasok"
+      title = "Közös varrások"
       description = "Kozos teremben tanari felugyelettel varrunk"
 
     [[params.about.events]]
       img = "2.jpg"
       date = "March 2011"
-      title = "An Agency is Born"
+      title = "Textilfestő workshop"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
     [[params.about.events]]
       img = "3.jpg"
       date = "December 2012"
-      title = "Our Humble Beginnings"
+      title = "Hagyományos varrótanfolyam"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
     [[params.about.events]]
       img = "4.jpg"
       date = "July 2014"
-      title = "Phase Two Expansion"
+      title = "Egyéb"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 
@@ -178,8 +178,8 @@ publishDir = "public"
     enable = true
     # Possibility to center items
     #center = true
-    title = "Rolunk"
-    subtitle = "Mi vagyunk a varrni jo."
+    title = "Rólunk"
+    subtitle = "A VarrniJÓ alapítói"
     description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -188,9 +188,9 @@ publishDir = "public"
     [[params.team.members]]
       img = "dori.jpg"
       name = "Papp Dorottya"
-      position = "Varrono"
+      position = "Ruhaipari mérnök, szerkesztő-modellező, tanár, a ’93-as Nemzetközi Burda Varróverseny európa bajnoki I. helyezettje"
       # For bio markdown and even multiline strings are available.
-      bio = """Dori gyerekkora ota varr. Szuleitol tanulta. Europabajnok. Stb"""
+      bio = """A főiskola elvégzése után számos divattervező mellett dolgoztam modellezőként, majd ezzel párhuzamosan kezdtem el hobbi varrótanfolyamokat tartani felnőtteknek, édesanyámmal közösen működtetett iskolánkban. 2008-tól két gyermekem mellett voltam otthon, ami idő alatt új impulzusok értek és megszületett bennem a VarrniJó Stúdió “kreatív szettek” és “közös varrások” ötlete. Ehhez hívtam segítségül Siptár Rékát, akit a fent említett Burda Varróversenyen ismertem meg, ahol ő is dobogós helyezést ért el, és a méltán híres Siptár márka megalkotója, vezetője. Ő felel a VarrniJó termékek csodálatos díszítéseiért."""
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
