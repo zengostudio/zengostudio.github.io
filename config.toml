@@ -200,12 +200,12 @@ publishDir = "public"
     [[params.team.members]]
       img = "reka.jpg"
       name = "Siptár Réka"
-      position = "textilművész, ruhatervező, interior designer, a ’93-as Nemzetközi Burda Varróverseny európa bajnoki III. helyezettje, a Siptár és az eSeR márkák megalapítója"
+      position = "Textilművész, ruhatervező, interior designer, a ’93-as Nemzetközi Burda Varróverseny európa bajnoki III. helyezettje, a Siptár és az eSeR márkák megalapítója"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
-      bio = """25 éve foglalkozom ruhák tervezésével és megvalósításával, mely ruhák erős karakterük miatt brandé nőtték ki magukat. Egy évvel ezelőtt kezdtem az általam kikisérletezett textil mintázások technikáját tanítani, s miután Dóri megkeresett a VarrniJó ötletével, úgy gondolom kitűnő párosítás a ruhák varrása alkalmával egy egyszerűbb technikai megoldással színessé és egyedivé varázsolni a megalkotott darabokat. Ebben szeretnék segítséget nyújtani, hogy minél többen megtapasztalhassák, az alkotás színes örömét."""
+      bio = """25 éve foglalkozom ruhák tervezésével és megvalósításával, mely ruhák erős karakterük miatt brandé nőtték ki magukat. Egy évvel ezelőtt kezdtem az általam kikisérletezett textil mintázások technikáját tanítani, s miután Dóri megkeresett a VarrniJÓ ötletével, úgy gondolom kitűnő párosítás a ruhák varrása alkalmával egy egyszerűbb technikai megoldással színessé és egyedivé varázsolni a megalkotott darabokat. Ebben szeretnék segítséget nyújtani, hogy minél többen megtapasztalhassák az alkotás színes örömét"""
       social = [
       ]
 
