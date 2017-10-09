@@ -100,7 +100,7 @@ params:
         title: Közös varrások
         description: Kozos teremben tanari felugyelettel varrunk
       - img: 2.jpg
-        date: March 2011
+        #date: March 2011
         title: Textilfestő workshop
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
@@ -108,7 +108,7 @@ params:
           recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
           consectetur!
       - img: 3.jpg
-        date: December 2012
+        #date: December 2012
         title: Hagyományos varrótanfolyam
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
@@ -116,7 +116,7 @@ params:
           recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
           consectetur!
       - img: 4.jpg
-        date: July 2014
+        #date: July 2014
         title: Egyéb
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
