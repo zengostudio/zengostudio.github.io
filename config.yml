@@ -33,8 +33,11 @@ params:
           - icon: fa-female
             title: Mérettáblázat
             description: >-
-              Női S/M méret mellbőség: 84-96 cm, derékbőség: 66-78 cm,
-              csípőbőség:
+              Női S/M méret MB: 84-96 cm, DB: 66-78 cm,
+              CSB:90-102 cm
+              Női L/XL méret MB:100-116 cm, DB: 82-98 cm, CSB: 106-118 cm
+              Női egyméretes méret: MB: 84-104 cm, DB: 66-86 cm, CSB: 90-110 cm
+        
             url: '#'
           - icon: fa-question
             title: Kiknek ajánljuk
@@ -98,11 +101,11 @@ params:
     events:
       - img: 1.jpg
         title: Közös varrások
-        description: Kozos teremben tanari felugyelettel varrunk
+        description: Ha szeretnél profi gépeken, tanári segítséggel, jó hangulatban varrni, ITT A HELYED, GARANTÁLT A SIKERT! Jelentkezni az info@varrnijo.com oldalon lehet.
       - img: 2.jpg
         #date: March 2011
         title: Textilfestő workshop
-        description: >-
+        description: Hamarosan!
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
           voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
           recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
@@ -110,7 +113,7 @@ params:
       - img: 3.jpg
         #date: December 2012
         title: Hagyományos varrótanfolyam
-        description: >-
+        description: Hamarosan!
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
           voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
           recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
@@ -118,7 +121,7 @@ params:
       - img: 4.jpg
         date: July 2014
         title: Egyéb
-        description: >-
+        description: Hamarosan!
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
           voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam,
           recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
