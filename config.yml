@@ -27,7 +27,7 @@ params:
   services:
     enable: true
     title: Tudnivalók
-    subtitle: Lorem ipsum dolor sit amet consectetur.
+    subtitle: 
     row:
       - list:
           - icon: fa-female
@@ -85,9 +85,10 @@ params:
               szükséged lehet.
             url: '#'
   portfolio:
-    enable: false
-    title: Portfolio
-    subtitle: Lorem ipsum dolor sit amet consectetur.
+    enable: true
+    title: Termékek
+    subtitle: 
+   
     modal:
       client: Client
       date: Date
