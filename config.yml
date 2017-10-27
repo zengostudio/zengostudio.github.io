@@ -16,7 +16,7 @@ params:
   navigation:
     brand: VarrniJÓ
     services: Tudnivalók
-    portfolio: Portfolio
+    portfolio: Termékek
     about: Események
     team: Rólunk
     contact: Kapcsolat
@@ -201,7 +201,7 @@ params:
   contact:
     enable: true
     title: Kapcsolat
-    address: 1114, Budapest Eszék utca 14/b. 1-es kapucsengő
+    address: 1114, Budapest Eszék utca 14/b. 1-es kapucsengő info@varrnijo.com
     phone: +36 70 940 7195
     subtitle: 'Uzenet:'
     buttonText: Mehet
