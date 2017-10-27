@@ -35,7 +35,7 @@ params:
             description: >-
               Női S/M méret MB: 84-96 cm, DB: 66-78 cm,
               CSB:90-102 cm
-              Női L/XL méret MB:100-116 cm, DB: 82-98 cm, CSB: 106-118 cm
+              Női L/XL méret MB:100-116 cm, DB: 82-94 cm, CSB: 102-110 cm
               Női egyméretes fazonok: MB: 84-104 cm, DB: 66-86 cm, CSB: 90-110 cm
         
             url: '#'
@@ -96,8 +96,8 @@ params:
   about:
     enable: true
     title: Események
-    subtitle: Lorem ipsum dolor sit amet consectetur.
-    endpoint: GYere<br>probaldd<br>ki!
+    subtitle: Várunk szeretettel programjainkon!
+    endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: 1.jpg
         title: Közös varrások
@@ -235,6 +235,6 @@ params:
         link: '#'
 menu:
   postpend:
-    - url: 'https://www.meska.hu'
+    - url: 'https://www.siptar.hu'
       name: Termékek/Webshop
       weight: 10
