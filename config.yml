@@ -8,7 +8,7 @@ params:
   description: Your description
   custom_css: []
   custom_js: []
-  favicon: favicon.ico
+  favicon: favicon1.ico
   disableFonts: false
   error404:
     heading: Page couldn't be found
