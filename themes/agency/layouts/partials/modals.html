@@ -17,6 +17,16 @@
               {{ $url := printf "img/portfolio/%s" .img }}
               <img class="img-responsive img-centered" src="{{ .img  }}" alt="">
               <p>{{ .description | markdownify }}</p>
+
+              {{ if .siptar }}
+              <p>
+              További infokat, megrendelő oldalt a Siptár webshopban találsz:
+                <a href="http://www.siptar.hu/uzlet/{{ .siptar }}/" >
+                  Katt Ide
+                </a>
+              </p>
+              {{ end }}
+
               <ul class="list-inline">
                 <li>{{ with $.Site.Params.portfolio.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
                 <li>{{ with $.Site.Params.portfolio.modal.client }}{{ . | markdownify }}{{ end }}: <a href="{{ .clientLink }}">{{ .client }}</a></li>
