@@ -4,10 +4,10 @@ subtitle: Kényelmes, lezser női felső nagy zsebekkel és egyedi díszítésse
 date: 2014-07-05
 img: http://www.siptar.hu/wp-content/uploads/2017/10/zsebesF1.jpg
 preview: http://www.siptar.hu/wp-content/uploads/2017/10/zsebesF1.jpg
-client: Start Bootstrap
-clientLink: "#"
-category: Női
-siptar: noi-szoknya-varrocsomag
+client:
+clientLink:
+category: Felső
+siptar: noi-zsebes-felso-varrocsomag
 description: |
   Kényelmes, bő fazonú, nagy zsebekkel és egyedi, kézzel festett korongokkal
   díszített női felső. Egyméretes fazon. Anyaga 100% pamut, jól kezelhető,
