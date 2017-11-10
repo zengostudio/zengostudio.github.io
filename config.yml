@@ -14,7 +14,7 @@ params:
     heading: Page couldn't be found
     text: 'Please visit [this page](/)'
   navigation:
-    brand: VarrniJÓ
+    logo: logo.png
     services: Tudnivalók
     portfolio: Termékek
     about: Események
