@@ -113,9 +113,6 @@ params:
         title: Hagyományos varrótanfolyam
         description: Hamarosan!
 
-      - img: IMG_20171023_145754.jpg
-        title: Egyéb
-        description: Hamarosan!
 
   team:
     enable: true
