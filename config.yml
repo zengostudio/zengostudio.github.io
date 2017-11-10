@@ -232,6 +232,6 @@ params:
         link: '#'
 menu:
   postpend:
-    - url: 'https://www.siptar.hu'
-      name: Termékek/Webshop
+    - url: 'http://www.siptar.hu/termekkategoria/varrnijo/'
+      name: Webshop
       weight: 10
