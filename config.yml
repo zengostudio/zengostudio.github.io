@@ -33,10 +33,10 @@ params:
           - icon: fa-female
             title: Mérettáblázat
             description: >-
-              Női S/M méret MB: 84-96 cm, DB: 66-78 cm,
-              CSB:90-102 cm
-              Női L/XL méret MB:100-116 cm, DB: 82-94 cm, CSB: 102-110 cm
-              Női egyméretes fazonok: MB: 84-104 cm, DB: 66-86 cm, CSB: 90-110 cm
+              Női S/M méret Mellbőség: 84-96 cm, Derékbőség: 66-78 cm,
+              Csípőbőség:90-102 cm
+              Női L/XL méret Mellbőség:100-116 cm, Derékbőség: 82-94 cm, CSípőbőség: 102-110 cm
+              Női egyméretes fazonok: Mellbőség: 84-104 cm, Derékbőség: 66-86 cm, Csípőbőség: 90-110 cm
         
             url: '#'
           - icon: fa-question
@@ -56,7 +56,7 @@ params:
               vagy nehezebb műveleteket előre elkészítjük (pl. gomblyukak, alja
               eldolgozások). Díszítéshez szükséges, előkészített minták.
               Szükséges kellékek: gumik, kötözők, szalagok, cérnák, stb. Leírás,
-              részletes útmutató az elkészítéshez, hasznos tippekkel,
+              részletes útmutató az elkészítéshez hasznos tippekkel,
               tanácsokkal.
             url: '#'
           - icon: fa-battery-2
