@@ -100,7 +100,7 @@ params:
     subtitle: Várunk szeretettel programjainkon!
     endpoint: Gyere<br>próbáld<br>ki!
     events:
-      - img: 1.jpg
+      - img: helyseg.jpg
         title: Közös varrások
         description: Ha szeretnél profi gépeken, tanári segítséggel, jó hangulatban varrni, ITT A HELYED, GARANTÁLT A SIKER! Jelentkezni az info@varrnijo.com oldalon lehet.
       - img: 2.jpg
