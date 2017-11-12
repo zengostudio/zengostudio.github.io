@@ -33,10 +33,10 @@ params:
           - icon: fa-female
             title: Mérettáblázat
             description: >-
-              Női S/M méret Mellbőség: 84-96 cm, Derékbőség: 66-78 cm,
+              NŐI S/M MÉRET Mellbőség: 84-96 cm, Derékbőség: 66-78 cm,
               Csípőbőség:90-102 cm
-              Női L/XL méret Mellbőség:100-116 cm, Derékbőség: 82-94 cm, CSípőbőség: 102-110 cm
-              Női egyméretes fazonok: Mellbőség: 84-104 cm, Derékbőség: 66-86 cm, Csípőbőség: 90-110 cm
+              NŐI L/XL MÉRET Mellbőség:100-116 cm, Derékbőség: 82-94 cm, CSípőbőség: 102-110 cm
+              NŐI EGYMÉRETES FAZONOK: Mellbőség: 84-104 cm, Derékbőség: 66-86 cm, Csípőbőség: 90-110 cm
 
             url: '#'
           - icon: fa-question
