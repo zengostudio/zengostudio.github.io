@@ -86,7 +86,7 @@ params:
             url: '#'
   portfolio:
     enable: true
-    title: Termékek
+    title: Varrd meg magad termékek
     subtitle:
 
     modal:
