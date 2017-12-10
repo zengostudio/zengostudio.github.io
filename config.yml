@@ -102,7 +102,7 @@ params:
     events:
       - img: helyseg.jpg
         title: Közös varrások
-        description: Ha szeretnél profi gépeken, tanári segítséggel, jó hangulatban varrni, ITT A HELYED, GARANTÁLT A SIKER! Ára 13.000,-FT/alkalom (3 óra) + termékkel együtt. Jelentkezni az info@varrnijo.com címen lehet (add meg, mit szeretnél varrni). SZERDA esténként 17-20 óráig, PÉNTEK esténként 17-20 óráig. 
+        description: Ha szeretnél profi gépeken, tanári segítséggel, jó hangulatban varrni, ITT A HELYED, GARANTÁLT A SIKER! Ára 13.000,-FT/alkalom (3 óra) + termékkel együtt. Jelentkezni az info@varrnijo.com címen lehet (add meg, mit szeretnél varrni). SZERDA esténként 17-20 óráig, PÉNTEK esténként 17-20 óráig.
       - img: varrotanf.JPG
         #date: March 2011
         title: Varrótanfolyam KEZDŐKNEK
@@ -110,8 +110,8 @@ params:
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: Textilfestő workshop
-        description: Hamarosan!
+        title: Textilfestő tanfolyam varrással
+        description: ÚJ ÚJ ÚJ! Textilfestéssel egybekötött 3 alkalmas tanfolyam indul JANUÁR 12-ÉN PÉNTEKENKÉNT 17-20 óráig. Textilfestés alapjai, ruhák, kiegészítők díszítése speciális technikával, utolsó alkalommal egy saját kezűleg díszített ruhadarab/kiegészítő megvarrása. Előképzettség nem szükséges! Ára: 22.000,-Ft Jelentkezni az info@varrnijo.com címen lehet.
 
 
   team:
