@@ -96,7 +96,7 @@ params:
       buttonText: Close project
   about:
     enable: true
-    title: Események
+    title: Tanfolyamok
     subtitle: Várunk szeretettel programjainkon!
     endpoint: Gyere<br>próbáld<br>ki!
     events:
