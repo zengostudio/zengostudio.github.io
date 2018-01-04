@@ -101,8 +101,8 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: Közös varrások
-        description: Ha szeretnél profi gépeken, tanári segítséggel, jó hangulatban varrni, ITT A HELYED, GARANTÁLT A SIKER! Ára 13.000,-FT/alkalom (3 óra) + termékkel együtt. Jelentkezni az info@varrnijo.com címen lehet (add meg, mit szeretnél varrni). SZERDA esténként 17-20 óráig, PÉNTEK esténként 17-20 óráig.
+        title: Középhaladó tanfolyam
+        description: 4 alkalmas tanfolyam indul JANUÁR 31-én szerdánként 17-20 óráig. A kezdő tanfolyam folytatása, szoknya szerkesztés, modellezés, varrás, zippzár, derékpánt, stb. + ajándék VarrniJÓ termék. Ára 27.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet. 
       - img: varrotanf.JPG
         #date: March 2011
         title: Varrótanfolyam KEZDŐKNEK
