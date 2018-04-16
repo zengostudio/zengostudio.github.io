@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on VarrniJÓ</title>
-    <link>http://www.varrnijo.com/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on VarrniJÓ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2017 18:01:27 +0200</lastBuildDate>
     
-	<atom:link href="http://www.varrnijo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second Post</title>
-      <link>http://www.varrnijo.com/posts/second-post/</link>
+      <link>/posts/second-post/</link>
       <pubDate>Sun, 08 Oct 2017 18:01:27 +0200</pubDate>
       
-      <guid>http://www.varrnijo.com/posts/second-post/</guid>
+      <guid>/posts/second-post/</guid>
       <description>Tanfolyam1 Itt megtanulhatod:
  szoknya nadrag melleny  Gyertek!</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://www.varrnijo.com/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Sun, 08 Oct 2017 09:52:07 +0200</pubDate>
       
-      <guid>http://www.varrnijo.com/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>First post with modifications. Kerek szepen kavet!
 New second line</description>
     </item>
