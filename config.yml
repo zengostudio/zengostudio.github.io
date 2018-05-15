@@ -101,8 +101,8 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: DÉLUTÁNI KEZDŐ tanfolyam
-        description: 3 alkalmas kezdő tanfolyam indul ÁPRILIS 4-én szerdánként 17-20 óráig. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+        title: DÉLUTÁNI KEZDŐ tanfolyam (heti 3x)
+        description: 3 alkalmas kezdő tanfolyam indul JÚNIUS 11-13-14-én hétfő, szerda, csütörtök 17-20 óráig. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
       - img: varrotanf.JPG
         #date: March 2011
         title: DÉLELŐTTI KÖZÉPHALADÓ varrótanfolyam
