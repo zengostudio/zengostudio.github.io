@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/second-post/</loc>
+    <loc>http://www.varrnijo.com/posts/second-post/</loc>
     <lastmod>2017-10-08T18:01:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>http://www.varrnijo.com/posts/my-first-post/</loc>
     <lastmod>2017-10-08T09:52:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://www.varrnijo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>http://www.varrnijo.com/posts/</loc>
     <lastmod>2017-10-08T18:01:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://www.varrnijo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://www.varrnijo.com/</loc>
     <lastmod>2017-10-08T18:01:27+02:00</lastmod>
     <priority>0</priority>
   </url>
