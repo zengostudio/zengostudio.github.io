@@ -101,12 +101,12 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: DÉLUTÁNI KEZDŐ tanfolyam (heti 3x)
-        description: NYÁRI SZÜNET MIATT szeptemberben indul új csoport. Szép nyarat! 3 alkalmas kezdő tanfolyam indul JÚNIUS 11-13-14-én hétfő, szerda, csütörtök 17-20 óráig. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+        title: ÚJ! HÉTVÉGI INTENZÍV KEZDŐ VARRÓTANFOLYAM
+        description: Szeptember 15-16-án szombat, vasárnap 10-14.30 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
       - img: varrotanf.JPG
         #date: March 2011
-        title: DÉLELŐTTI KEZDŐ varrótanfolyam
-        description: NYÁRI SZÜNET miatt legközelebb ősszel indul új csoport. Szép nyarat Mindenkinek! Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+        title: ÚJ! DÉLELŐTTI KEZDŐ varrótanfolyam
+        description: Szeptember 25-én  keddenként 10-13-ig 3 alkalmas, kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
 
       - img: textilfesto.JPG
         #date: December 2012
