@@ -103,7 +103,17 @@ params:
       - img: helyseg.jpg
         title: ÚJ! HÉTVÉGI INTENZÍV KEZDŐ VARRÓTANFOLYAM
         description: Október 13-14-én szombat, vasárnap 10-14.30 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+
+      - img: DSC_0192.JPG
+        title: ÚJ! HÉTVÉGI INTENZÍV KEZDŐ VARRÓTANFOLYAM
+        description: Október 13-14-én szombat, vasárnap 10-14.30 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+
       - img: varrotanf.JPG
+        #date: March 2011
+        title: ÚJ! INTENZÍV KEZDŐ varrótanfolyam SZENTENDRÉN
+        description: Október 5-én 16-20 óráig és okt. 6-án 10-15 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a siptarreka@gmail.com címen!
+
+      - img: DSC_0353.JPG
         #date: March 2011
         title: ÚJ! INTENZÍV KEZDŐ varrótanfolyam SZENTENDRÉN
         description: Október 5-én 16-20 óráig és okt. 6-án 10-15 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a siptarreka@gmail.com címen!
@@ -222,7 +232,7 @@ params:
       - icon: fa-twitter
         link: '#'
       - icon: fa-facebook
-        link: '#'
+        link: 'https://www.facebook.com/VarrniJÓ-Stúdió-253448031848840/'
       - icon: fa-linkedin
         link: '#'
     quicklinks:
