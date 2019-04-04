@@ -210,7 +210,7 @@ params:
     phone: +36 70 940 7195
     subtitle: 'Üzenet:'
     buttonText: Mehet
-    email: dori@varrnijo.com
+    email: info@varrnijo.com
     form:
       name:
         text: Neved *
