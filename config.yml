@@ -102,7 +102,7 @@ params:
     events:
       - img: helyseg.jpg
         title: HÉTVÉGI INTENZÍV KÖZÉPHALADÓ VARRÓTANFOLYAM ALLEENÁL
-        description: 2019.február 16-17-én szombaton és vasárnap 10-16 óráig, középhaladó, szoknyavarró tanfolyam indul. Burda újság használatának megtanulása, szabás, szűkítők, rejtett és sima zippzár varrása, derekazás, készre varrás és egy szabadon választható VarrniJÓ termék elkészítése. Ára 27.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+        description: 2019.június 15-én és 29-én szombaton 9-15 óráig, középhaladó, szoknyavarró tanfolyam indul. Burda újság használatának megtanulása, szabás, szűkítők, rejtett és sima zippzár varrása, derekazás, készre varrás és egy szabadon választható VarrniJÓ termék elkészítése. Ára 27.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
 
       - img: DSC_0192.JPG
         title: ÚJ DÉLELŐTTI, KEZDŐ VARRÓTANFOLYAM ALLEENÁL
@@ -120,8 +120,8 @@ params:
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: JÚLIUSI GYEREK KEZDŐ VARRÓTANFOLYAM ALLEENÁL DÉLELŐTT
-        description: "2019.július 29-30-31 és aug. 1. hétfőtől csütörtökig 10-12 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 25.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!"
+        title: Őszi GYEREK KEZDŐ VARRÓTANFOLYAM ALLEENÁL
+        description: "Augusztus végén kerülnek fel az időpontok. 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 25.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!"
 
   team:
     enable: true
