@@ -101,17 +101,17 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: HÉTVÉGI INTENZÍV KÖZÉPHALADÓ VARRÓTANFOLYAM ALLEENÁL
-        description: 2019.június 15-én és 29-én szombaton 9-15 óráig, középhaladó, szoknyavarró tanfolyam indul. Burda újság használatának megtanulása, szabás, szűkítők, rejtett és sima zippzár varrása, derekazás, készre varrás és egy szabadon választható VarrniJÓ termék elkészítése. Ára 27.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
+        title: ÚJ! HÉTVÉGI, KEZDŐ varrótanfolyam ALLEENÁL
+        description: 2019.szeptember 14-15-én szombaton 9-14 és vasárnap 9-13 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
-        title: ÚJ DÉLELŐTTI, KEZDŐ VARRÓTANFOLYAM ALLEENÁL
-        description: 2019.április 9-10-11 kedd, szerda, csütörtökön 10-13 óráig, 3 alkalmas kezdő varrótanfolyam indul az Alleenál. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft ajándék termékkel! Jelentkezés és bővebb információ az info@varrnijo.com címen."
+        title: HÉTVÉGI KÖZÉPHALADÓ VARRÓTANFOLYAM ALLEENÁL
+        description: 2019.szeptember 21-22-én szombaton és vasárnap 9-15 óráig, középhaladó, szoknyavarró tanfolyam indul. Burda újság használatának megtanulása, szabás, szűkítők, rejtett és sima zippzár varrása, derekazás, készre varrás és egy szabadon választható VarrniJÓ termék elkészítése. Ára 27.000,-Ft. Jelentkezni az info@varrnijo.com címen lehet.
 
       - img: varrotanf.JPG
         #date: March 2011
         title: ÚJ! HÉTVÉGI, KEZDŐ varrótanfolyam ALLEENÁL
-        description: 2019.május 11-12-én szombaton 9-15 és vasárnap 10-13 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        description: 2019.szeptember 14-15-én szombaton 9-15 és vasárnap 10-13 óráig kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0353.JPG
         #date: March 2011
