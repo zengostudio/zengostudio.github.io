@@ -101,7 +101,7 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ÚJ! KEZDŐ varrótanfolyam ALLEENÁL 
+        title: ÚJ! KEZDŐ varrótanfolyam ALLEENÁL
         description: 2019.november 18-tól hétfőnként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
@@ -116,12 +116,12 @@ params:
       - img: DSC_0353.JPG
         #date: March 2011
         title: ÚJ KEZDŐ GYEREK kezdő varrótanfolyam INDUL Alleenál
-        description: 2019.november 9-től szombatonként 13-15 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
+        description: 2020.január 18-tól szombatonként 9.30-11.30 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: Őszi GYEREK KEZDŐ VARRÓTANFOLYAM ALLEENÁL
-        description: "Augusztus végén kerülnek fel az időpontok. 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 25.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!"
+        title: ÚJ, ÚJ, ÚJ Varrótanfolyam kamaszoknak ALLEENÁL
+        description: "2020.január 18-tól 16-18 óráig TINIKNEK szóló varrótanfolyam indul kezdő szintről. 4 alkalmas tanfolyam 13-18 éves korosztálynak. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt terméket készítünk el (párna, tolltartó, táska, szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!"
 
   team:
     enable: true
