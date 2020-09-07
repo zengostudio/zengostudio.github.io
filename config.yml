@@ -101,7 +101,7 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ÚJ! INTENZÍV DÉLELŐTTI KEZDŐ varrótanfolyam ALLEENÁL 
+        title: ÚJ! INTENZÍV DÉLELŐTTI KEZDŐ varrótanfolyam ALLEENÁL
         description: 2020.szeptember 22,23,25. kedd-szerda-péntek 10-13 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
@@ -110,7 +110,7 @@ params:
 
       - img: varrotanf.JPG
         #date: March 2011
-        title: ÚJ! Kezdő délutáni varrótanfolyam ALLEENÁL (intenzív) BETELT
+        title: ÚJ! Kezdő délutáni varrótanfolyam ALLEENÁL 
         description: 2020.október 7,14,21. szerdánként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0353.JPG
