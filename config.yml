@@ -101,8 +101,8 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ÚJ! INTENZÍV DÉLELŐTTI KEZDŐ varrótanfolyam ALLEENÁL
-        description: 2020.szeptember 22,23,25. kedd-szerda-péntek 10-13 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        title: AJÁNDÉKUTALVÁNY - FRISS HÍREK
+        description: A járványhelyzet miatt következő kezdő tanfolyamaink 2021. februárjában indulnak. Karácsonyra AJÁNDÉKUTALVÁNY rendelése elkezdődött, adj élményt szeretteidnek! Gyerek- és felnőtt tanfolyamainkra, termékekre 2021. december 31-ig beváltható névre szóló utalványok megrendelhetők az info@varrnijo.com címen.  Ára felnőtt: 22.000,-Ft, Gyerek: 27.000,-Ft.
 
       - img: DSC_0192.JPG
         title: DÉLUTÁNI HALADÓ (nadrág) VARRÓTANFOLYAM ALLEENÁL
@@ -110,7 +110,7 @@ params:
 
       - img: varrotanf.JPG
         #date: March 2011
-        title: ÚJ! Kezdő délutáni varrótanfolyam ALLEENÁL 
+        title: ÚJ! Kezdő délutáni varrótanfolyam ALLEENÁL
         description: 2020.október 7,14,21. szerdánként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 22.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0353.JPG
