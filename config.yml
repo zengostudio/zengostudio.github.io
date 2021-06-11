@@ -121,8 +121,7 @@ params:
       - img: textilfesto.JPG
         #date: December 2012
         title: ÚJ, NYÁRI DÉLUTÁNI felnőtt, kezdő varrótanfolyam ALLEENÁL
-        description: "2020.augusztus 2-4-5-én 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
-
+        description: "2020.augusztus 2-4-5-én 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!"
   team:
     enable: true
     title: Rólunk
