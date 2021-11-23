@@ -101,16 +101,16 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ŐSZI felnőtt DÉLUTÁNI varrótanfolyam indul Alleenál 
-        description: 2021.október 12-13-14-én kedd, szerda, csütörtök 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        title: ÚJ ÚJ ÚJ felnőtt DÉLUTÁNI varrótanfolyam indul Alleenál 
+        description: 2022.január 10-től hétfőnként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
-        title: ŐSZI KEZDŐ GYEREK varrótanfolyam INDUL Alleenál 
-        description: 2021.szeptember 11, 18, október 2, 9-én, szombatonként 13-15 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
+        title: ÚJ ÚJ ÚJ KEZDŐ GYEREK varrótanfolyam INDUL Alleenál 
+        description: 2022.január 22-től, szombatonként 10-12 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
       - img: varrotanf.JPG
         #date: March 2011
-        title: ÚJ! Kezdő NYÁRI intenzív FELNŐTT varrótanfolyam ALLEENÁL (BETELT)
+        title: Kezdő NYÁRI intenzív FELNŐTT varrótanfolyam ALLEENÁL (BETELT)
         description: 2021.augusztus 24-25-26, kedd-szerda-csütörtök napokon 10-13 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0353.JPG
@@ -120,7 +120,7 @@ params:
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: ÚJ, NYÁRI DÉLUTÁNI felnőtt, kezdő varrótanfolyam ALLEENÁL
+        title: NYÁRI DÉLUTÁNI felnőtt, kezdő varrótanfolyam ALLEENÁL
         description: "2021.szeptemberben 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!"
   team:
     enable: true
