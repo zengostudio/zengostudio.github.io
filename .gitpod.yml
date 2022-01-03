@@ -1,0 +1,9 @@
+tasks:
+  - init: |
+      sudo apt-get install -y hugo
+    command: |
+      url=$(gp url)
+      hugo server -b 1313-${url##*/} --appendPort=false
+ports:
+  - port: 1313
+    onOpen: open-browser
