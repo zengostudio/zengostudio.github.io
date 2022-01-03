@@ -238,8 +238,3 @@ params:
         link: '#'
       - text: Terms of Use
         link: '#'
-menu:
-  postpend:
-    - url: 'http://www.siptar.hu/termekkategoria/varrnijo/'
-      name: Webshop
-      weight: 10
