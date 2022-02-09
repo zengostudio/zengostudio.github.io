@@ -101,12 +101,12 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ÚJ ÚJ ÚJ felnőtt DÉLUTÁNI varrótanfolyam indul Alleenál 
-        description: 2022.február 7, 14, 28. hétfőnként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        title: ÚJ ÚJ ÚJ felnőtt DÉLELŐTTI varrótanfolyam indul Alleenál 
+        description: 2022.március 8., 10., 17-én kedd-csütörtökön 10-13 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 30.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
         title: ÚJ ÚJ ÚJ KEZDŐ GYEREK varrótanfolyam INDUL Alleenál 
-        description: 2022.január 23. vasárnap 15-17-ig, jan. 29, febr. 5, 12. szombatonként 10-12 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
+        description: 2022.március 26, ápr. 2,  9, 23-án, szombatonként 16-18 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén mutogatható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 27.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
       - img: varrotanf.JPG
         #date: March 2011
