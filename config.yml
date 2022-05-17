@@ -120,8 +120,8 @@ params:
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: NYÁRI DÉLUTÁNI felnőtt, kezdő varrótanfolyam ALLEENÁL
-        description: "2021.szeptemberben 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul. Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!"
+        title: KLUB felnőtt
+        description: "2022.szeptemberétől heti 1x 17-20 óráig, Burda újság segítségével mindenki tetszőleges ruhadarabot szab és varr szakmai segítséggel hozott anyagból. Ára 25.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!"
   team:
     enable: true
     title: Rólunk
