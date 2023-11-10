@@ -101,22 +101,22 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: helyseg.jpg
-        title: ÚJ DÉLELŐTTI KEZDŐ FELNŐTT varrótanfolyam indul Alleenál 16 éves kortól 
-        description: 2023.október 2-3, 9-10-én hétfő-keddi napokon 10-13 óráig, 4 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések, Burda újság használata, szabás és egy szabadon választható termék elkészítése. Ára 45.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        title: AJÁNDÉKUTALVÁNY
+        description: Névre szóló, 1 évig érvényes ajándékutalványok rendelhetők. Bővebb információ az info@varrnijo.com címen!
 
       - img: DSC_0192.JPG
-        title: ÚJ ŐSZI KEZDŐ GYEREK varrótanfolyam INDUL Alleenál 
-        description: 2023.október 3-24-ig keddenként 16-18 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8 éves kortól. Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló/szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 35.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
+        title: ÚJ JNAUÁRI KEZDŐ GYEREK varrótanfolyam INDUL Alleenál 
+        description: 2024.január 16-tól keddenként 16-18 óráig, 4 alkalmas gyerek varrótanfolyam indul teljesen kezdő szinttől 8-15 éves korig. Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak (párna, tolltartó, táska, póló/szoknya). Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 35.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
       - img: varrotanf.JPG
         #date: March 2011
-        title: HÉTVÉGI SZUPERINTENZÍV kezdő felnőtt varrótanfolyam 16 éves kortól
-        description: 2023.november 11-12-én szombat-vasárnap 9-15 óráig, kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések, Burda újság használata, rengeteg varrás és egy szabadon választható termék elkészítése. Ára 45.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        title: ÚJ HÉTVÉGI SZUPERINTENZÍV kezdő felnőtt varrótanfolyam 16 éves kortól
+        description: 2024.január 13-14-én szombat-vasárnap 9-15 óráig, kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések, Burda újság használata, rengeteg varrás és egy szabadon választható termék elkészítése. Ára 45.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: DSC_0353.JPG
         #date: March 2011
         title: ÚJ FELNŐTT DÉLUTÁNI KEZDŐ VARRÓTANFOLYAM INDUL
-        description: 2022.október 10, 17, 24. hétfőnként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 35.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
+        description: 2023.október 10, 17, 24. hétfőnként 17-20 óráig, 3 alkalmas kezdő varrótanfolyam indul.Biztos varrótudás, alap varrástípusok, széleldolgozások, szegések és egy szabadon választható VarrniJÓ termék elkészítése. Ára 35.000,-Ft. Jelentkezés és bővebb információ a info@varrnijo.com címen!
 
       - img: textilfesto.JPG
         #date: December 2012
