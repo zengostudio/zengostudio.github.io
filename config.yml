@@ -21,7 +21,7 @@ params:
     team: Rólunk
     contact: Kapcsolat
   hero:
-    title: VARRÓTANFOLYAMOK és VARRD MEG MAGAD kreatív szettek egyedi SIPTÁR díszítésekkel
+    title: VARRÓTANFOLYAMOK GYEREKEKNEK és FELNŐTTEKNEK - a siker garantált!
     subtitle: VarrniJÓ
     buttonText: részletek
   services:
@@ -31,12 +31,10 @@ params:
     row:
       - list:
           - icon: fa-female
-            title: Mérettáblázat
+            title: Kiknek ajánljuk
             description: >-
-              NŐI S/M MÉRET Mellbőség: 84-96 cm, Derékbőség: 66-78 cm,
-              Csípőbőség:90-102 cm
-              NŐI L/XL MÉRET Mellbőség:100-116 cm, Derékbőség: 82-94 cm, CSípőbőség: 102-110 cm
-              NŐI EGYMÉRETES FAZONOK: Mellbőség: 84-104 cm, Derékbőség: 66-86 cm, Csípőbőség: 90-110 cm
+             A gyerek tanfolyamokat 8 éves kortól ajánljuk egészen 16 éves korig. Tapasztalataink szerint ez a korcsoport az, amelyik megérett a varrógép biztonságos kezelésére, kellően tud koncentrálni, így biztosan sikerélményekkel tér haza.
+Felnőtt tanfolyamra 16 éves kortól várunk mindenkit szeretettel.
 
             url: '#'
           - icon: fa-question
