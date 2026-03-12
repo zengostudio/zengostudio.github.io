@@ -31,12 +31,15 @@ params:
     row:
       - list:
           - icon: fa-female
-            title: Kiknek ajánljuk
+            title: Gyerek tanfolyamok
             description: >-
               A gyerek tanfolyamokat 8 éves kortól ajánljuk egészen 16 éves korig. 
               Tapasztalataink szerint ez a korcsoport az, amelyik megérett a varrógép 
               biztonságos kezelésére, kellően tud koncentrálni, így biztosan sikerélményekkel 
-              tér haza. Felnőtt tanfolyamra 16 éves kortól várunk mindenkit szeretettel.
+              tér haza. Felnőtt tanfolyamra 16 éves kortól várunk mindenkit szeretettel. Minden tanfolyam 4 alkalmas, alkalmanként 2 órás. 
+              Létszám: min. 5 fő, max. 8 fő. Folytatási lehetőség mindig megoldott. Jelentkezők függvényében szoktunk korcsoport bontást csinálni, 
+              de nyugodtan jöhetnek vegyesen (8 éves mellé 14-15 évesek is), mivel olyan sűrű a program egy-egy tanfolyamon, mindenki a saját dolgára koncentrál, hogy nem szokott gondot okozni.
+              
 
             url: '#'
           - icon: fa-question
