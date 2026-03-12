@@ -21,6 +21,9 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
+      - name: Fetch master branch
+        run: git fetch origin master:refs/remotes/origin/master
+
       - name: Build Hugo site
         run: |
           docker run --rm \
@@ -28,13 +31,14 @@ jobs:
             -v ${{ github.workspace }}/public:/output \
             -e HUGO_WATCH=false \
             jojomi/hugo:0.34
+          sudo chown -R $USER:$USER public
+
 
       - name: Deploy to master branch
         run: |
-          rm -rf public/
-          git worktree add -B master public origin/master
-          cd public
+          git worktree add -B master deploy origin/master
+          cp -r public/* deploy/
+          cd deploy
           git add --all
           git commit -m "Publishing [skip ci]" || echo "No changes to commit"
           git push origin master
-          cd ..
