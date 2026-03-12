@@ -1,0 +1,37 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - hugo
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout hugo branch
+        uses: actions/checkout@v4
+        with:
+          ref: hugo
+
+      - name: Setup git config
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Build Hugo site
+        uses: docker://jojomi/hugo:0.34
+        with:
+          args: /github/workspace:/src -v /github/workspace/public:/output -e HUGO_WATCH=false
+
+      - name: Deploy to master branch
+        run: |
+          rm -rf public/
+          git worktree add -B master public origin/master
+          cd public
+          git add --all
+          git commit -m "Publishing [skip ci]" || echo "No changes to commit"
+          git push origin master
+          cd ..
