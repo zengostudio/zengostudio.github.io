@@ -22,9 +22,12 @@ jobs:
           git config --global user.name "GitHub Actions"
 
       - name: Build Hugo site
-        uses: docker://jojomi/hugo:0.34
-        with:
-          args: /github/workspace:/src -v /github/workspace/public:/output -e HUGO_WATCH=false
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}:/src \
+            -v ${{ github.workspace }}/public:/output \
+            -e HUGO_WATCH=false \
+            jojomi/hugo:0.34
 
       - name: Deploy to master branch
         run: |
