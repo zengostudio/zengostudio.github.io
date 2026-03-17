@@ -66,12 +66,12 @@ params:
 
             url: '#'
           - icon: fa-battery-2
-            title: Nehézségi fokok
+            title: Kell-e saját varrógép?
             description: >-
-              Mindegyik termékünk alap varrásismerettel rendelkezőknek, követve
-              a leírások pontos sorrendjét, egyszerűen megvarrható. A még
-              teljesen kezdőknek pedig közös varrásainkon nyújtunk segítséget,
-              ahol ők is elkészíthetik a kiválasztott termékeket.
+              Nem kell, a tanfolyamainkon minden résztvevőnek biztosítunk profi, sebességállítási 
+              lehetőséggel ellátott varrógépet, de egy idő után lehet hozni saját varrógépet is, 
+              amit segítünk megtanulni használni. Igény esetén tanácsot adunk, milyen gépet érdemes vásárolni otthoni használatra.
+
             url: '#'
           - icon: fa-leaf
             title: Alapanyagok
@@ -85,10 +85,10 @@ params:
           - icon: fa-cut
             title: Szükséges eszközök
             description: >-
-              Varrógép, olló, gombostű, minden mást tartalmaz a csomag. Ha nem
-              rendelkezel alap eszközökkel, rendeld meg az összeválogatott, jó
-              minőségű eszköz csomagunkat, amiben megtalálsz mindent, amire
-              szükséged lehet.
+              A tanfolyamokon minden szükséges eszközt, gépet, hozzávalót biztosítunk. 
+              Amit érdemes hozni: füzetet jegyzetelni (felnőtt tanfolyamokra), zárható kulacsban innivalót 
+              és egy kis rágcsát (aki igényli).
+
             url: '#'
   portfolio:
     enable: true
