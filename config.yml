@@ -51,7 +51,7 @@ params:
               Egy kis elmélet után megtanuljuk a varrógépek biztonságos kezelését, alap varrástípusokkal, 
               széleldolgozó technikákkal ismerkedünk, megtanuljuk a szabás alapjait, 
               a Burda újság használatát és minden alkalommal elkészítünk egy-egy készterméket. 
-              (Toltartó, neszeszer, táska, szoknya vagy felsőrész). Amennyiben a csoport szeretné, 
+              (Tolltartó, neszeszer, táska, szoknya vagy felsőrész). Amennyiben a csoport szeretné, 
               folytatási lehetőségként haladó tanfolyamot is szervezünk.
 
             url: '#'
@@ -72,7 +72,8 @@ params:
             description: >-
               Nem kell, a tanfolyamainkon minden résztvevőnek biztosítunk profi, sebességállítási 
               lehetőséggel ellátott varrógépet, de egy idő után lehet hozni saját varrógépet is, 
-              amit segítünk megtanulni használni. Igény esetén tanácsot adunk, milyen gépet érdemes vásárolni otthoni használatra.
+              amit segítünk megtanulni használni. Igény esetén tanácsot adunk, milyen gépet 
+              érdemes vásárolni otthoni használatra.
 
             url: '#'
           - icon: fa-leaf
