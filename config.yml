@@ -30,7 +30,7 @@ params:
     subtitle:
     row:
       - list:
-          - icon: fa-female
+          - icon: fa-child
             title: Gyerek tanfolyamok
             description: >-
               A gyerek tanfolyamokat 8 éves kortól ajánljuk egészen 16 éves korig. Minden tanfolyam 4x2 órás., min. 5, max. 8 fővel indul. 
@@ -40,7 +40,7 @@ params:
               
 
             url: '#'
-          - icon: fa-question
+          - icon: fa-user
             title: Felnőtt tanfolyamok
             description: >-
               Kezdő tanfolyam 4x3 óra, min. létszám 5 fő, max. 8 fő. 
@@ -51,7 +51,7 @@ params:
               folytatási lehetőségként haladó tanfolyamot is szervezünk.
 
             url: '#'
-          - icon: fa-archive
+          - icon: fa-calendar
             title: Nyári táborok gyerekeknek
             description: >-
               Minden nyáron rendezünk gyerekeknek nyári napközis délelőtti tábort. 
@@ -62,7 +62,7 @@ params:
               Ellátás: kiadós uzsonnával készülünk.
 
             url: '#'
-          - icon: fa-battery-2
+          - icon: fa-cogs
             title: Kell-e saját varrógép?
             description: >-
               Nem kell, a tanfolyamainkon minden résztvevőnek biztosítunk profi, sebességállítási 
@@ -80,7 +80,7 @@ params:
               kiegészítőknél, kellékeknél is igyekszünk jó minőségű, tartós
               anyagokat használni.
             url: '#'
-          - icon: fa-cut
+          - icon: fa-scissors
             title: Szükséges eszközök
             description: >-
               A tanfolyamokon minden szükséges eszközt, gépet, hozzávalót biztosítunk. 
