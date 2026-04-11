@@ -8,25 +8,19 @@
       </div>
     </div>
     <div class="row">
-
-      {{ range .Site.Data.projects }}
+      {{ $image := "img/portfolio/sample.jpg" }}
+      {{ range seq 1 12 }}
         <div class="col-md-4 col-sm-6 portfolio-item">
-          <a href="#portfolioModal{{ .modalID }}" class="portfolio-link" data-toggle="modal">
+          <a href="{{ $image | relURL }}" class="portfolio-link" target="_blank" rel="noopener">
             <div class="portfolio-hover">
               <div class="portfolio-hover-content">
                 <i class="fa fa-plus fa-3x"></i>
               </div>
             </div>
-            {{ $url := printf "img/portfolio/%s" .preview }}
-            <img src="{{ .preview }}" class="img-responsive" alt="">
+            <img src="{{ $image | relURL }}" class="img-responsive" alt="Galéria">
           </a>
-          <div class="portfolio-caption">
-            <h4>{{ .title | markdownify }}</h4>
-            <p class="text-muted">{{ .category | markdownify }}</p>
-          </div>
         </div>
       {{ end }}
-
     </div>
   </div>
 </section>
