@@ -16,7 +16,7 @@ params:
   navigation:
     logo: logo.png
     services: Tudnivalók
-    portfolio: Termékek
+    portfolio: Galéria
     about: Tanfolyamok
     team: Rólunk
     contact: Kapcsolat
@@ -90,7 +90,7 @@ params:
             url: '#'
   portfolio:
     enable: true
-    title: Varrd meg magad termékek
+    title: Galéria
     subtitle:
 
     modal:
