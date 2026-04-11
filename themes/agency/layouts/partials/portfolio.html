@@ -8,8 +8,9 @@
       </div>
     </div>
     <div class="row">
-      {{ $image := "img/portfolio/sample.jpg" }}
-      {{ range seq 1 12 }}
+      {{ $imagePrefix := "img/portfolio/product-" }}
+      {{ range $i := seq 1 18 }}
+        {{ $image := printf "%s%d.jpg" $imagePrefix $i }}
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a href="{{ $image | relURL }}" class="portfolio-link" target="_blank" rel="noopener">
             <div class="portfolio-hover">
@@ -17,7 +18,7 @@
                 <i class="fa fa-plus fa-3x"></i>
               </div>
             </div>
-            <img src="{{ $image | relURL }}" class="img-responsive" alt="Galéria">
+            <img src="{{ $image | relURL }}" class="img-responsive" alt="Galéria {{ $i }}">
           </a>
         </div>
       {{ end }}
