@@ -124,12 +124,14 @@ params:
       - img: DSC_0353.JPG
         #date: March 2011
         title: GYEREK KEZDŐ VARRÓTANFOLYAM 8 éves kortól
-        description: 2026. őszétől, 4 alkalmas kezdő varrótanfolyam indul.Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak. Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 45.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
+        description: 2026. őszétől, 4 alkalmas kezdő varrótanfolyam indul.Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak. 
+        Mellette biztos varrótudást szerezhetnek profi gépeinken. 
+        Ára 45.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
       - img: textilfesto.JPG
         #date: December 2012
-        title: KLUB felnőtt
-        description: "2024.szept.16, 23, okt. 7,14,21 hétfőnként 17-20 óráig előzetes bejelentkezés alapján, Burda újság segítségével mindenki tetszőleges ruhadarabot szab és varr szakmai segítséggel hozott anyagból. Ára 10.000,-Ft/alkalom. Jelentkezés és bővebb információ az info@varrnijo.com címen!"
+        title: Felnőtt kezdő varrótanfolyam 16 éves kortól
+        description: "HAMAROSAN. Jelentkezés és bővebb információ az info@varrnijo.com címen!"
   team:
     enable: true
     title: Rólam
