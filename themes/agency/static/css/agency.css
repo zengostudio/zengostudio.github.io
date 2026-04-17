@@ -385,6 +385,25 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+#portfolio .portfolio-item .portfolio-link .portfolio-thumb {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    overflow: hidden;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-thumb .img-responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;

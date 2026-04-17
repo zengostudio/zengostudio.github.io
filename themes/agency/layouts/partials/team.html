@@ -1,4 +1,6 @@
 {{ "<!-- Team Section -->" | safeHTML }}
+{{ $teamMembers := .Site.Params.team.members }}
+{{ $teamSize := len $teamMembers }}
 <section id="team" class="bg-light-gray">
   <div class="container">
     <div class="row">
@@ -7,9 +9,9 @@
         <h3 class="section-subheading text-mutedwith ">{{ with .Site.Params.team.subtitle }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
-    <div class="row {{ if .Site.Params.team.center }} flexbox-center{{ end }}">
-      {{ range .Site.Params.team.members }}
-        <div class="col-sm-6 col">
+    <div class="row {{ if or .Site.Params.team.center (eq $teamSize 1) }} flexbox flexbox-center{{ end }}">
+      {{ range $teamMembers }}
+        <div class="col-sm-{{ if eq $teamSize 1 }}12{{ else }}6{{ end }} col">
           <div class="team-member">
             {{ $url := printf "img/team/%s" .img }}
             <img src="{{ $url | absURL }}" class="img-responsive img-circle" alt="{{ .name }}">

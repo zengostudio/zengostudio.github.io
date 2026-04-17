@@ -16,9 +16,9 @@ params:
   navigation:
     logo: logo.png
     services: Tudnivalók
-    portfolio: Termékek
+    portfolio: Galéria
     about: Tanfolyamok
-    team: Rólunk
+    team: Rólam
     contact: Kapcsolat
   hero:
     title: VARRÓTANFOLYAMOK GYEREKEKNEK és FELNŐTTEKNEK - a siker garantált!
@@ -30,7 +30,7 @@ params:
     subtitle:
     row:
       - list:
-          - icon: fa-female
+          - icon: fa-child
             title: Gyerek tanfolyamok
             description: >-
               A gyerek tanfolyamokat 8 éves kortól ajánljuk egészen 16 éves korig. Minden tanfolyam 4x2 órás., min. 5, max. 8 fővel indul. 
@@ -40,7 +40,7 @@ params:
               
 
             url: '#'
-          - icon: fa-question
+          - icon: fa-user
             title: Felnőtt tanfolyamok
             description: >-
               Kezdő tanfolyam 4x3 óra, min. létszám 5 fő, max. 8 fő. 
@@ -51,7 +51,7 @@ params:
               folytatási lehetőségként haladó tanfolyamot is szervezünk.
 
             url: '#'
-          - icon: fa-archive
+          - icon: fa-calendar
             title: Nyári táborok gyerekeknek
             description: >-
               Minden nyáron rendezünk gyerekeknek nyári napközis délelőtti tábort. 
@@ -62,7 +62,7 @@ params:
               Ellátás: kiadós uzsonnával készülünk.
 
             url: '#'
-          - icon: fa-battery-2
+          - icon: fa-cogs
             title: Kell-e saját varrógép?
             description: >-
               Nem kell, a tanfolyamainkon minden résztvevőnek biztosítunk profi, sebességállítási 
@@ -80,7 +80,7 @@ params:
               kiegészítőknél, kellékeknél is igyekszünk jó minőségű, tartós
               anyagokat használni.
             url: '#'
-          - icon: fa-cut
+          - icon: fa-scissors
             title: Szükséges eszközök
             description: >-
               A tanfolyamokon minden szükséges eszközt, gépet, hozzávalót biztosítunk. 
@@ -90,7 +90,7 @@ params:
             url: '#'
   portfolio:
     enable: true
-    title: Varrd meg magad termékek
+    title: Galéria
     subtitle:
 
     modal:
@@ -132,8 +132,7 @@ params:
         description: "2024.szept.16, 23, okt. 7,14,21 hétfőnként 17-20 óráig előzetes bejelentkezés alapján, Burda újság segítségével mindenki tetszőleges ruhadarabot szab és varr szakmai segítséggel hozott anyagból. Ára 10.000,-Ft/alkalom. Jelentkezés és bővebb információ az info@varrnijo.com címen!"
   team:
     enable: true
-    title: Rólunk
-    subtitle: A VarrniJÓ alapítói
+    title: Rólam
     description: >-
       Ahogy teltek az évek és a gyermekeim elérték azt a kort, amikor biztonságosan kipróbálhatták a 
       varrógéppel varrást, nagyon hamar összeállt egy csapat 7-8 éves gyerek, akikkel elindítottuk az 
@@ -185,28 +184,7 @@ params:
             - '#'
           - - fa-linkedin
             - '#'
-      - img: reka.jpg
-        name: Siptár Réka
-        position: >-
-          Textilművész, ruhatervező, interior designer, a ’93-as Nemzetközi
-          Burda Varróverseny európa bajnoki III. helyezettje, a Siptár és az
-          eSeR márkák megalapítója
-        bio: >-
-          25 éve foglalkozom ruhák tervezésével és megvalósításával, mely ruhák
-          erős karakterük miatt brandé nőtték ki magukat. Egy évvel ezelőtt
-          kezdtem az általam kikisérletezett textil mintázások technikáját
-          tanítani, s miután Dóri megkeresett a VarrniJÓ ötletével, úgy gondolom
-          kitűnő párosítás a ruhák varrása alkalmával egy egyszerűbb technikai
-          megoldással színessé és egyedivé varázsolni a megalkotott darabokat.
-          Ebben szeretnék segítséget nyújtani, hogy minél többen
-          megtapasztalhassák az alkotás színes örömét
-        social:
-          - - fa-twitter
-            - '#'
-          - - fa-facebook
-            - '#'
-          - - fa-linkedin
-            - '#'
+
   clients_list:
     enable: false
   clients:
