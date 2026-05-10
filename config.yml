@@ -104,25 +104,25 @@ params:
     subtitle: Várunk szeretettel programjainkon!
     endpoint: Gyere<br>próbáld<br>ki!
     events:
-      - img: helyseg.jpg
+      - img: meroszalag.png
         title: AJÁNDÉKUTALVÁNY
         description: Névre szóló, 1 évig érvényes ajándékutalványok rendelhetők. Bővebb információ az info@varrnijo.com címen!
 
-      - img: DSC_0192.JPG
+      - img: tuparna.png
         title: ÚJ GYEREK varrótábor I. turnus HAMAROSAN 
         description: 2026. nyarán hétfőtől péntekig 9-13 óráig, gyerek varrótábor indul kezdőknek 8-15 éves korig. Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak. Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 65.000,-Ft (mindent szükséges hozzávalót és uzsonnát tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
-      - img: varrotanf.JPG
+      - img: varrogep.png
         #date: March 2011
         title: ÚJ GYEREK varrótábor II. turnus HAMAROSAN
         description: 2026. nyarán hétfőtől péntekig 9-13 óráig, gyerek varrótábor indul kezdőknek 8-15 éves korig. Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak. Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 65.000,-Ft (mindent szükséges hozzávalót és uzsonnát tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
-      - img: DSC_0353.JPG
+      - img: cerna.png
         #date: March 2011
         title: GYEREK KEZDŐ VARRÓTANFOLYAM 8 éves kortól
         description: 2026. őszétől, 4 alkalmas kezdő varrótanfolyam indul.Minden alkalommal egy csodaszép, büszkén használható, saját kezűleg megvarrt termékkel gazdagodhatnak. Mellette biztos varrótudást szerezhetnek profi gépeinken. Ára 45.000,-Ft (mindent tartalmaz). Jelentkezés és bővebb információ az info@varrnijo.com címen!
 
-      - img: textilfesto.JPG
+      - img: ollo.png
         #date: December 2012
         title: Felnőtt kezdő varrótanfolyam 16 éves kortól
         description: "HAMAROSAN. Jelentkezés és bővebb információ az info@varrnijo.com címen!"
