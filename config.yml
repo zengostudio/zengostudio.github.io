@@ -105,9 +105,10 @@ params:
     endpoint: Gyere<br>próbáld<br>ki!
     events:
       - img: meroszalag.png
-        title: AJÁNDÉKUTALVÁNY
+        title: ÚJ GYEREK varrótábor I. turnus Törökbálinton
         description: >- 
-          Névre szóló, 1 évig érvényes ajándékutalványok rendelhetők. Bővebb információ az info@varrnijo.com címen!
+          2026.jún. 29-júl. 3-ig hétfőtől péntekig 9-13 óráig nyári gyerek tábor indul 8-15 éves korig. Megtanuljuk a varrógép biztonságos használatát, majd minden nap elkészítünk 1-2 gyönyörű, jól használható terméket egyszerűbbtől haladva a bonyolultabbakig. Készülünk a nyárra, úgyhogy mindenképpen lesz strandtáska, póló/strandruha, vízesruha tartó, utazáshoz rajzmappa, stb. Ára: 65.000,-Ft, mely tartalmaz minden szükséges hozzávalót és egy kiadós uzsonnát. Helyszín: Törökbálint, Munkácsy Mihály Művelődési Ház. Bővebb információ és jelentkezés: info@varrnijo.com
+
 
       - img: tuparna.png
         title: ÚJ GYEREK varrótábor I. turnus Törökbálinton 
